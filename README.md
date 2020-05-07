@@ -1,1 +1,1 @@
-# Slide--Loss
+# Slidebegin{equation}^{+-}\end{equation} Loss
