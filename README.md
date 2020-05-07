@@ -1,1 +1,1 @@
-# Slide+/-Loss
+# SlidE+/-Loss
